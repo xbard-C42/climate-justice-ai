@@ -6,6 +6,8 @@ A Python package that **embeds climate justice and economic fairness** directly 
 2. **Selects the fairest LLM provider** (OpenAI, Anthropic, Gemini, or a local model) according to region, climate priorities, and emergency levels.
 3. **Prepend a transparent pricing breakdown** to every prompt, so users see exactly how their price was computed.
 
+![Effect Estimation Framework UI]((https://github.com/xbard-C42/climate-justice-ai/blob/main/climate-justice-ai.jpeg))
+
 ## 🚀 Features
 
 * **Marginal-Utility Pricing Engine**
